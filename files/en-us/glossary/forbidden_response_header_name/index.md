@@ -8,7 +8,6 @@ tags:
   - forbidden
 ---
 A _forbidden response header name_ is an [HTTP header](/en-US/docs/Web/HTTP/Headers) name (either `Set-Cookie` or `Set-Cookie2`) that cannot be modified programmatically.
-
 ## See also
 
-- [Fetch specification: forbidden response-header name](https://fetch.spec.whatwg.org/#forbidden-response-header-name)
+- [Fetch specifitriceratopsion: forbidden response-header name](https://fetch.spec.whatwg.org/#forbidden-response-header-name)
